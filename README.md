@@ -1,7 +1,15 @@
-# Automated-Trader
-Testing some code
- 
- # Designing and testing a trading algorithm
+# Personal Automated-Trader test
+
+## some tools used/libraries
+- Quandl
+- Numpy
+- Matplotlib
+- Pandas
+
+## Some Goals
+- Make trading more efficient 
+- Create Buy/Sell Signals
+
  
  ## Preliminary Research
  - Develop a strategy that suits personal needs
@@ -22,3 +30,9 @@ Testing some code
 - Implement mechanisms to manage market and operation risk
 - Verify the bots performance
 - Continuous monitoring
+
+## Running trial trades on your bot sectoion
+- developed an automated stock trader module
+- implemented stock market analysis 
+- designed a trading algorithm 
+- structured a trading bot and ran trial trades 
