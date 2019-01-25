@@ -9,7 +9,7 @@ Testing some code
  - Identify persistent marketing efficency
 
 ## Backtesting
--  Focus on validating the tradin bot
+-  Focus on validating the trading bot
 - understand performance over different time frames and asset classes
 
 ## Optimization
